@@ -51,7 +51,7 @@ import EssentialLink from 'components/EssentialLink.vue'
 
 const linksData = [
   {
-    title: 'Docs',
+    title: 'Documentation',
     caption: 'quasar.dev',
     icon: 'school',
     link: 'https://quasar.dev'
